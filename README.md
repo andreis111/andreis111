@@ -69,7 +69,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts   -->
   
 
 <br/>  
