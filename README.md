@@ -78,16 +78,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <!--
 **andreis111/andreis111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
