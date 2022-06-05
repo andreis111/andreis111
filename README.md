@@ -6,7 +6,7 @@
 ### <div align="center">Hello 👋, I'm Andrei</div>  
   
 
-<div align="center">Organized, detail-oriented, resourceful full stack software enginee</div>  
+<div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
   
 
 - 🔭 I’m currently working at #100Devs  
