@@ -64,7 +64,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andreis111&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreis111&layout=compact&langs_count=16"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=andreis111&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
