@@ -14,6 +14,11 @@
 
 <br/>  
 
+![Snake animation](https://github.com/andreis111/andreis111/blob/output/github-contribution-grid-snake.svg)
+  
+
+<br/> 
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -74,10 +79,7 @@
 
 <br/>  
 
-![Snake animation](https://github.com/andreis111/andreis111/blob/output/github-contribution-grid-snake.svg)
-  
-
-<br/>  
+ 
 
 <!--
 **andreis111/andreis111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
