@@ -7,12 +7,9 @@
   
 
 <div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
-  <br/>
+<br/>
 
-- 🔭 I’m currently working at #100Devs  
-  
-
-<br/>  
+- 🔭 I’m currently working at #100Devs    
 
 ![Snake animation](https://github.com/andreis111/andreis111/blob/output/github-contribution-grid-snake.svg)
   
