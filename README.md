@@ -67,7 +67,7 @@
 
 ## Github Stats  
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=andreis111&show_icons=true&count_private=true&hide_border=true" align="center" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreis111&show_icons=true&theme=dark&locale=en" alt="andreis111" />
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreis111&theme=dark" alt="andreis111" />
 </div>  
 <br/>  
