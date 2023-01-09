@@ -10,9 +10,6 @@
 <br/>
 
 - 🔭 I’m currently working at #100Devs    
-
-![Snake animation](https://github.com/andreis111/andreis111/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 
 <br/> 
