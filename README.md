@@ -4,7 +4,6 @@
   
 
 ### <div align="center">Hello 👋, I'm Andrei</div>  
-  ![Snake animation](https://github.com/andreis111/andreis111/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
 <br/>
