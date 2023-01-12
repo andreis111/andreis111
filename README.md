@@ -7,8 +7,7 @@
 
 <div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
 <br/>
-
-- 🔭 I’m currently working at #100Devs    
+  
   
 
 <br/> 
