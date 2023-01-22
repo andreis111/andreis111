@@ -81,6 +81,7 @@
         Responsive landing page for a client. Created with: HTML, CSS, Javascript, Bootstrap
     </td>
   </tr>
+ </table>
 
 
 <br/>  
