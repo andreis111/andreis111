@@ -18,6 +18,12 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react)](https://skillicons.dev)  
 
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)  
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mongodb, postgres)](https://skillicons.dev)  
+
 <br/>  
 
 
