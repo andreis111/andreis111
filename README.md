@@ -2,16 +2,10 @@
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u2jev5watbqm3hpx6ns26cu8s4hhbkguoptp8p9c&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">Hello 👋, I'm Andrei</div>  
 
 <div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
 <br/>
-  
-  
-
-<br/> 
-
 
 ## My Skill Set  
 
@@ -26,6 +20,50 @@
 
 <br/>  
 
+
+<table bordercolor="#33bef5">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">FleetMate</h3>
+      <br />
+      <a href="https://fleetmate.onrender.com/" target="_blank">
+        <img src="https://camo.githubusercontent.com/50055b1e89e8ec7a63246f54af100aacf926b5e1f18ce30598395ba39174ce0e/68747470733a2f2f692e696d6775722e636f6d2f4861574977705a2e676966" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/andreis111/FleetMate" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://fleetmate.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        FleetMate is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">HotelFixIt</h3>
+      <br />
+      <a href="https://github.com/andreis111/HotelFixIt" target="_blank">
+        <img src="https://i.imgur.com/znbMc8s.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/andreis111/HotelFixIt" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://github.com/andreis111/HotelFixIt" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        HotelFixIt is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind
+    </td>
+  </tr>
+
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -46,13 +84,7 @@
    
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreis111&theme=dark" alt="andreis111" />
 </div>  
-<br/>  
-
-
-<!-- ## Recent Blog Posts   -->
   
-
-<br/>  
 
 
 
