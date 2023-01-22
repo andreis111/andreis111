@@ -14,9 +14,12 @@
 
 
 ## My Skill Set  
+
+###Frontend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table><tr><td valign="top" width="33%">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ### Frontend  
 <div align="center">  
