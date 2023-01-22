@@ -66,7 +66,7 @@
       <h3 align="center">Double J Maintenance</h3>
       <br />
       <a href="https://doublejmaintenance.com/" target="_blank">
-        <img src="https://i.imgur.com/MeLxvL2.png" />
+        <img src="https://i.imgur.com/J8VcMDb.png" />
       </a>
       <br />
       <p align="center">
