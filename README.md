@@ -39,9 +39,10 @@
         </a>
       </p>
       <p>
-        FleetMate is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap
+        FleetMate is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap, HTML, CSS
       </p>
     </td>
+    
     <td width="50%" valign="top">
       <h3 align="center">HotelFixIt</h3>
       <br />
@@ -58,7 +59,26 @@
         </a>
       </p>
       <p>
-        HotelFixIt is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind
+        HotelFixIt is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind, HTML, CSS
+    </td>
+    
+    <td width="50%" valign="top">
+      <h3 align="center">Double J Maintenance</h3>
+      <br />
+      <a href="https://doublejmaintenance.com/" target="_blank">
+        <img src="https://i.imgur.com/nfUY97B.png" />
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/andreis111/DoubleJ" target="_blank">
+          <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+        </a>
+        <a href="https://doublejmaintenance.com/" target="_blank">
+          <img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+        </a>
+      </p>
+      <p>
+        Responsive landing page for a client. Created with: HTML, CSS, Javascript, Bootstrap
     </td>
   </tr>
 
