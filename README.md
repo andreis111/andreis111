@@ -39,10 +39,9 @@
         </a>
       </p>
       <p>
-        FleetMate is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap, HTML, CSS
+        FleetMate is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap
       </p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">HotelFixIt</h3>
       <br />
@@ -59,13 +58,9 @@
         </a>
       </p>
       <p>
-        HotelFixIt is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind, HTML, CSS
-      </p>
+        HotelFixIt is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind
     </td>
-    
   </tr>
-  
- </table>
 
 
 <br/>  
