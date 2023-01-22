@@ -62,6 +62,8 @@
         HotelFixIt is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind, HTML, CSS
     </td>
     
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Double J Maintenance</h3>
       <br />
@@ -81,6 +83,7 @@
         Responsive landing page for a client. Created with: HTML, CSS, Javascript, Bootstrap
     </td>
   </tr>
+  
  </table>
 
 
