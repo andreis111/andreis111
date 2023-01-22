@@ -60,6 +60,7 @@
       </p>
       <p>
         HotelFixIt is a fullstack app. Created with: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind, HTML, CSS
+      </p>
     </td>
     
   </tr>
