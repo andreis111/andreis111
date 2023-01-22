@@ -22,7 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)  
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb, postgres)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)  
 
 <br/>  
 
