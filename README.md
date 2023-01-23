@@ -43,7 +43,7 @@
       <h3 align="center">HotelFixIt</h3>
       <br />
       <a href="https://github.com/andreis111/HotelFixIt" target="_blank">
-        <img src="https://i.imgur.com/F04eF1u.gif" />
+        <img src="https://i.imgur.com/znbMc8s.png" />
       </a>
       <br />
       <p align="center">
