@@ -22,7 +22,7 @@
 
 <br/> 
 
-##Projects
+## Projects
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
