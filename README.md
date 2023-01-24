@@ -20,7 +20,9 @@
 
 <br/>  
 
+<br/> 
 
+##Projects
 <table bordercolor="#33bef5">
   <tr>
     <td width="50%" valign="top">
@@ -55,7 +57,7 @@
         HotelFixIt is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Tailwind
     </td>
   </tr>
-    <tr>
+<!--     <tr>
     <td width="50%" valign="top">
       <h3 align="center">Double J Maintenance</h3>
       <br />
@@ -71,7 +73,7 @@
       <p>
         Responsive landing page for a client. Created with: HTML, CSS, Javascript, Bootstrap
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <br/>  
