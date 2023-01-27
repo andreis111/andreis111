@@ -44,7 +44,7 @@
     <td width="50%" valign="top">
       <h3 align="center">HotelFixIt</h3>
       <br />
-      <a href="https://github.com/andreis111/HotelFixIt" target="_blank">
+      <a href="https://hotelfixit.onrender.com" target="_blank">
         <img src="https://i.imgur.com/znbMc8s.png" />
       </a>
       <br />
