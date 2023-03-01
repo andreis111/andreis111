@@ -59,22 +59,6 @@
        </p>
     </td>
   </tr>
-  <td width="50%" valign="top">
-      <h3 align="center">FleetMate</h3>
-      <br />
-      <a href="https://fleetmate.onrender.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/96948675/222101861-33b88a3b-4f77-48fe-82ac-cda214a1cd70.gif" />
-      </a>
-      <br />
-      <p align="center">
-        <a href="https://github.com/andreis111/FleetMate" target="_blank">
-          <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=Github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        FleetMate is a fullstack app. Created using: Nodejs, Express, MongoDB, Javascript, EJS, Bootstrap
-      </p>
-    </td>
 <!--     <tr>
     <td width="50%" valign="top">
       <h3 align="center">Double J Maintenance</h3>
