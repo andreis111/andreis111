@@ -34,7 +34,7 @@
       <br />
       <p align="center">
         <a href="https://github.com/andreis111/FleetMate" target="_blank">
-          <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=Github&logoColor=white" />
+          <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=Github&logoColor=white"/>
         </a>
       </p>
       <p>
@@ -45,7 +45,7 @@
       <h3 align="center">HotelFixIt</h3>
       <br />
       <a href="https://hotelfixit.onrender.com" target="_blank">
-        <img src="[https://i.imgur.com/znbMc8s.png](https://user-images.githubusercontent.com/96948675/222101861-33b88a3b-4f77-48fe-82ac-cda214a1cd70.gif)" />
+        <img src="https://user-images.githubusercontent.com/96948675/222101861-33b88a3b-4f77-48fe-82ac-cda214a1cd70.gif" />
       </a>
 
       <br />
