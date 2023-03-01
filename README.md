@@ -4,7 +4,7 @@
   
 ### <div align="center">Hello 👋, I'm Andrei</div>  
 
-<div align="center">Organized, detail-oriented, resourceful full stack software engineer</div>  
+<div align="center">Fullstack developer with experience in Node.js, Express.js, and MongoDB and focusing on Javascript front-end technologies such as React.</div>  
 <br/>
 
 ## My Skill Set  
